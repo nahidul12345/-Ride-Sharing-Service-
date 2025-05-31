@@ -1,10 +1,10 @@
-# 🛵 Pathao Ride-Sharing Data Analysis Project
+# 🛵 "Go Home App"  Ride-Sharing Data Analysis Project
 
 This project analyzes operational, customer, and revenue data from a ride-sharing service (Pathao) using SQL and Metabase. It uncovers business insights related to ride patterns, fare structures, customer behavior, and more to assist in data-driven decision-making.
 
 ## 📌 Objective
 
-To explore Pathao ride data to:
+To explore Go Home App ride data to:
 
 - Understand ride trends across time segments.
 - Identify top pickup areas and customer behavior.
