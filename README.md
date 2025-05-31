@@ -54,7 +54,13 @@ To explore Pathao ride data to:
 
 ## 📷 Dashboard Preview
 
-🔗 (Note: Host your Metabase dashboard publicly to embed or link here)
+🔗 <iframe
+    src="http://localhost:3000/public/dashboard/6a088814-fe86-4c1d-93d2-671b531f4a87"
+    frameborder="0"
+    width="800"
+    height="600"
+    allowtransparency
+></iframe>
 
 You can view the dashboard locally at:  
 http://localhost:3000/public/dashboard/6a088814-fe86-4c1d-93d2-671b531f4a87  
